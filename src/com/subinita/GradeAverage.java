@@ -19,6 +19,9 @@ public class GradeAverage {
 		            if (grade < 0) {
 		                break;
 		            }
+		            
+		            
+		            
 
 		            totalGrades += grade;
 		            numberOfGrades++;
