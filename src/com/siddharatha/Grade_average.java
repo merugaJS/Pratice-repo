@@ -4,15 +4,16 @@ import java.util.Scanner;
 
 public class Grade_average {
 	public static void main(String[] args) {
+		
 		Scanner input = new Scanner(System.in);
         
-        int totalGrades = 0;
-        int sumGrades = 0;
+        double totalGrades = 0;
+        double sumGrades = 0;
         
         System.out.println("Enter grades:");
         
         while (true) {
-            int grade = input.nextInt();
+            double grade = input.nextDouble();
             
             if (grade < 0) {
                 break;
