@@ -10,7 +10,7 @@ public class Factorial_of_number {
 
 		System.out.println("Enter number to calculate factorial:");
 
-		long factorial = 1;
+		double factorial = 1;
 
 		int n = input.nextInt();
 
