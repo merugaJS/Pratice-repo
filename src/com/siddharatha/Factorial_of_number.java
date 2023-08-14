@@ -37,4 +37,5 @@ public class Factorial_of_number {
 		input.close();
 	}
 
+	
 }
