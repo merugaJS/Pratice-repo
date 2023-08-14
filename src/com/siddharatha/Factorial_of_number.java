@@ -31,11 +31,10 @@ public class Factorial_of_number {
 			for (int i = 1; i <= n; i++) {
 				factorial = factorial * i;
 			}
-			System.out.println("Factorial of " + n + " is " + factorial);
+			System.out.println("Factorial of the number" + n + " is " + factorial);
 
 		}
 		input.close();
 	}
 
-	
 }
