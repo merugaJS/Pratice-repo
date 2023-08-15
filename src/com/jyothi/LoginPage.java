@@ -1,4 +1,4 @@
-package com.siddharatha;
+package com.jyothi;
 
 public class LoginPage extends BasePage{
 

@@ -1,4 +1,4 @@
-package com.siddharatha;
+package com.jyothi;
 
 public class HomePage extends BasePage{
 
